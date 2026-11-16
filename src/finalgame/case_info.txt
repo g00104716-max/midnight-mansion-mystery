@@ -1,0 +1,5 @@
+Case ID: C001
+Title: Midnight Mansion Mystery
+Description: A valuable diamond necklace disappeared during a blackout at Blackwood Mansion.
+Location: Blackwood Mansion
+Status: Unsolved
